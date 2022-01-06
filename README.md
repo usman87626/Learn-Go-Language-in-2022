@@ -7,4 +7,3 @@ The repo will be updated time to time.
 1. Install [Go Language](https://go.dev/doc/install)
 2. Open the folder that you want to run in VS Code or any editor you like
 3. Use the command: `go run main.go`
-s
